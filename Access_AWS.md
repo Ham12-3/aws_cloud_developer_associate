@@ -7,3 +7,5 @@
   <li>Using the AWS CLI(Command Line Interface) either on your device or the AWS CloudShell</li>
   <li>Using the AWS SDK </li>
 </ul>
+
+![aws_cloud_shell](https://github.com/Ham12-3/aws_cloud_developer_associate/assets/93613316/d2c556d0-ce9f-4902-a360-0ff44f93763a)
