@@ -9,3 +9,5 @@
 </ul>
 
 ![aws_cloud_shell](https://github.com/Ham12-3/aws_cloud_developer_associate/assets/93613316/d2c556d0-ce9f-4902-a360-0ff44f93763a)
+
+To use the amazon CLI you'll need to get your CLI installed from AWS website then after that, you'll configure your access keys.
