@@ -18,3 +18,8 @@ aws --version
 ```
 
 This is to check if your CLI installed successfully
+
+Then after that you'll configure AWS, using the following command:
+```
+aws configure
+```
