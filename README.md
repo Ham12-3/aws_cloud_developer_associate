@@ -109,6 +109,7 @@ Leverage AWS CloudShell for seamless command line access, making your security c
 
 
 ![aws_cloud_shell](https://github.com/Ham12-3/aws_cloud_developer_associate/assets/93613316/03ad054a-476e-4a52-8e19-f709bd96f9ea)
+
 ![aws_security_groups](https://github.com/Ham12-3/aws_cloud_developer_associate/assets/93613316/2f0553ff-b7d2-42ac-b811-780583b05065)
 
 
