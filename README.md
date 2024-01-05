@@ -54,8 +54,11 @@ aws configure
 # Exploring AWS CloudShell and Security Groups
 <h2>Hello Cloud Enthusiasts! 👋 Today, let's take a deep dive into the functionalities of AWS CloudShell and the critical role Security Groups play in fortifying your AWS cloud infrastructure.</h2>
 
+<ol>
+ 
 
-1. AWS CloudShell: Seamless Command Line Access
+<li>
+  AWS CloudShell: Seamless Command Line Access
 
 AWS CloudShell offers a convenient command line interface directly accessible from the AWS Management Console. No more dealing with installations or configurations – it's a hassle-free way to manage your AWS resources right from your browser.
 
@@ -63,27 +66,42 @@ How to Access AWS CloudShell:
 
 Simply open CloudShell from the AWS Management Console.
 Leverage the AWS CLI directly in your browser for efficient resource management.
-2. Understanding Security Groups: Virtual Firewalls
+</li>
+
+
+<li>
+ Understanding Security Groups: Virtual Firewalls
 
 What are Security Groups?
 Security Groups act as virtual firewalls, managing inbound and outbound traffic to your AWS instances. They serve as the first line of defense for your cloud resources.
 
 Granular Control:
 Define rules within Security Groups to control traffic based on sources, ports, and protocols. This granular control ensures that only authorized access is granted to your AWS resources.
+</li> 
 
-3. Navigating AWS CloudShell for Security Configuration
+<li>
+  Navigating AWS CloudShell for Security Configuration
 
 Let's walk through the process of configuring Security Groups using AWS CloudShell:
 
 Access AWS CloudShell from the console.
 Utilize the AWS CLI in the CloudShell for efficient security configurations.
-4. Tips for Optimal Security Group Management
+</li>
 
-Regular Review:
+<li>
+ Tips for Optimal Security Group Management
+ Regular Review:
 Frequently review and update your Security Group rules to align with your evolving security requirements.
+
+</li>
+ 
+</ol>
+
 
 AWS CloudShell Benefits:
 Leverage AWS CloudShell for seamless command line access, making your security configurations more efficient and accessible.
+
+
 ![aws_cloud_shell](https://github.com/Ham12-3/aws_cloud_developer_associate/assets/93613316/03ad054a-476e-4a52-8e19-f709bd96f9ea)
 ![aws_security_groups](https://github.com/Ham12-3/aws_cloud_developer_associate/assets/93613316/2f0553ff-b7d2-42ac-b811-780583b05065)
 
