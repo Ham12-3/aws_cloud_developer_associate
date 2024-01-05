@@ -58,7 +58,8 @@ aws configure
  
 
 <li>
-  AWS CloudShell: Seamless Command Line Access
+ <h3>  AWS CloudShell: Seamless Command Line Access</h3>
+
 
 AWS CloudShell offers a convenient command line interface directly accessible from the AWS Management Console. No more dealing with installations or configurations – it's a hassle-free way to manage your AWS resources right from your browser.
 
@@ -70,7 +71,8 @@ Leverage the AWS CLI directly in your browser for efficient resource management.
 
 
 <li>
- Understanding Security Groups: Virtual Firewalls
+ <h3> Understanding Security Groups: Virtual Firewalls</h3>
+
 
 What are Security Groups?
 Security Groups act as virtual firewalls, managing inbound and outbound traffic to your AWS instances. They serve as the first line of defense for your cloud resources.
@@ -80,7 +82,10 @@ Define rules within Security Groups to control traffic based on sources, ports, 
 </li> 
 
 <li>
-  Navigating AWS CloudShell for Security Configuration
+ <h3>
+    Navigating AWS CloudShell for Security Configuration
+ </h3>
+
 
 Let's walk through the process of configuring Security Groups using AWS CloudShell:
 
@@ -89,7 +94,8 @@ Utilize the AWS CLI in the CloudShell for efficient security configurations.
 </li>
 
 <li>
- Tips for Optimal Security Group Management
+ <h3> Tips for Optimal Security Group Management</h3>
+
  Regular Review:
 Frequently review and update your Security Group rules to align with your evolving security requirements.
 
