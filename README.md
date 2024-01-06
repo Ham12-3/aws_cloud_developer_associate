@@ -122,6 +122,16 @@ Leverage AWS CloudShell for seamless command line access, making your security c
  <li>Benefit: This is particularly important for system administrators and developers who need to connect to their instances without compromising security.</li>
 </ul>
 
+<h3>File Transfer:</h3>
+<ul>
+ <li>Purpose: SSH is used for secure file transfers between local machines and AWS instances.</li>
+ <li>Benefit: Users can move files securely between their local environment and the cloud, ensuring the confidentiality and integrity of the transferred data.</li>
+</ul>
+
+
+
+
+
 
 
 
