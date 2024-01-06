@@ -112,6 +112,9 @@ Leverage AWS CloudShell for seamless command line access, making your security c
 
 ![aws_security_groups](https://github.com/Ham12-3/aws_cloud_developer_associate/assets/93613316/2f0553ff-b7d2-42ac-b811-780583b05065)
 
+
+
+
 <h2>Secure Shell (SSH) plays a crucial role in Amazon Web Services (AWS) by providing secure and encrypted communication for various tasks. Here are some specific uses of SSH in AWS:</h2>
 
 
@@ -152,6 +155,19 @@ Benefit: Users can establish encrypted tunnels to transmit data, enhancing secur
 Purpose: SSH supports key pair authentication, reducing reliance on passwords for accessing AWS instances.
  </li>
  <li>Benefit: Key pair authentication enhances security by using public and private key pairs, making it more resistant to unauthorized access compared to password-based authentication.</li>
+</ul>
+
+<h3>
+Identity and Access Management (IAM) Access:</h3>
+
+<ul>
+ <li>
+  Purpose: SSH can be used in conjunction with IAM roles to control access to AWS resources.
+ </li>
+ <li>
+  
+Benefit: This ensures that users and systems have the appropriate permissions to perform actions on AWS, following the principle of least privilege.
+ </li>
 </ul>
 
 
