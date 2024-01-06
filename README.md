@@ -128,6 +128,36 @@ Leverage AWS CloudShell for seamless command line access, making your security c
  <li>Benefit: Users can move files securely between their local environment and the cloud, ensuring the confidentiality and integrity of the transferred data.</li>
 </ul>
 
+<h3>Command Execution:</h3>
+
+<ul>
+ <li>
+Purpose: SSH enables users to execute commands on AWS instances remotely.</li>
+ <li>Benefit: This feature is essential for system administration, configuration management, and troubleshooting without requiring direct physical access to the servers.</li>
+</ul>
+
+
+<h3>
+Tunneling:</h3>
+<ul>
+ <li>Purpose: SSH tunneling allows secure transmission of data between local machines and AWS instances.</li>
+ <li>
+Benefit: Users can establish encrypted tunnels to transmit data, enhancing security for various applications, databases, or other services running on AWS.</li>
+</ul>
+
+<h3>Key Pair Authentication:</h3>
+<ul>
+ <li>
+  
+Purpose: SSH supports key pair authentication, reducing reliance on passwords for accessing AWS instances.
+ </li>
+ <li>Benefit: Key pair authentication enhances security by using public and private key pairs, making it more resistant to unauthorized access compared to password-based authentication.</li>
+</ul>
+
+
+
+
+
 
 
 
