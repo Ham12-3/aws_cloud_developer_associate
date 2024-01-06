@@ -170,6 +170,25 @@ Benefit: This ensures that users and systems have the appropriate permissions to
  </li>
 </ul>
 
+<h3>
+ Bastion Hosts:
+</h3>
+<ul>
+ <li>
+Purpose: SSH is often used to access a bastion host (jump host), which serves as an intermediary for accessing other instances in a private subnet.</li>
+ <li>Benefit: Bastion hosts add an additional layer of security by acting as a gateway for accessing resources in a secure manner.</li>
+</ul>
+
+<p>
+ Understanding and leveraging SSH in these scenarios contribute to a more secure and efficient management of AWS resources, ensuring the confidentiality and integrity of data and resources in the cloud environment.
+</p>
+
+![ssh](https://github.com/Ham12-3/aws_cloud_developer_associate/assets/93613316/a8a121ab-3a60-4ce0-8c72-468e94a729fa)
+
+
+
+
+
 
 
 
