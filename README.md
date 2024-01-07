@@ -239,6 +239,8 @@ Using EIC with the AWS CLI:</h3>
 <ol>
  <li>
   <p>Enable EIC on the Instance: (if not already enabled)</p>
+
+  
   ```bash
     aws ec2 enable-instance-profile-on-instance \
     --instance-id instance-id \
