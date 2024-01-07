@@ -205,6 +205,40 @@ IAM-Based Access Control: You can control SSH access to instances using AWS Iden
  </li>
 </ul>
 
+<h3>How it Works:</h3>
+
+<ol>
+ <li>
+  User Requests Connection:
+User initiates a connection request through the EC2 console, AWS CLI, or AWS SDKs.
+ </li>
+ <li>
+  IAM Authorization:
+AWS verifies the user's IAM permissions to access the instance.
+ </li>
+ <li>
+  One-Time SSH Key Generation:
+EIC generates a one-time SSH key pair and pushes the public key to the instance metadata.
+ </li>
+ <li>
+  SSH Connection:
+The user's SSH client connects to the instance using the private key, and the instance validates the public key from the metadata.
+ </li>
+ <li>
+  Session Establishment:
+Upon successful authentication, the SSH session is established, allowing interaction with the instance.
+ </li>
+</ol>
+
+
+
+
+
+
+
+
+
+
 
 
 
