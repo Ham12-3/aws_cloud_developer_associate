@@ -187,6 +187,24 @@ Purpose: SSH is often used to access a bastion host (jump host), which serves as
 
 
 
+<h2>EC2 Instance Connect (EIC) is a simple and secure method for connecting to your Amazon EC2 Linux instances using Secure Shell (SSH). It eliminates the need to manage SSH keys manually and offers enhanced security features.</h2>
+
+
+<h3>Key Features:</h3>
+<ul>
+ <li>
+  
+No SSH Key Management: EIC generates one-time use SSH keys, eliminating the need to store and distribute permanent keys.
+ </li>
+ <li>
+  
+IAM-Based Access Control: You can control SSH access to instances using AWS Identity and Access Management (IAM) policies and principals, ensuring granular control over who can connect to which instances.
+ </li>
+ <li>
+  Secure Logging: All connection attempts are logged to AWS CloudTrail, providing an audit trail for security and compliance.
+ </li>
+</ul>
+
 
 
 
