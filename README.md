@@ -240,7 +240,7 @@ Using EIC with the AWS CLI:</h3>
  <li>
   <p>Enable EIC on the Instance: (if not already enabled)</p>
   ```bash
-aws ec2 enable-instance-profile-on-instance \
+    aws ec2 enable-instance-profile-on-instance \
     --instance-id instance-id \
     --instance-profile-name EC2InstanceConnect
 ```
@@ -251,7 +251,7 @@ aws ec2 enable-instance-profile-on-instance \
   <p> Connect to Instance:</p>
  
 ```bash
-aws ec2-instance-connect send-ssh-public-key \
+    aws ec2-instance-connect send-ssh-public-key \
     --instance-id instance-id \
     --availability-zone availability-zone \
     --instance-os-user ubuntu
