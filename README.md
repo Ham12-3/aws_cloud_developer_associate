@@ -230,8 +230,54 @@ Upon successful authentication, the SSH session is established, allowing interac
  </li>
 </ol>
 
+![image](https://github.com/Ham12-3/aws_cloud_developer_associate/assets/93613316/d678d722-cdf4-41b8-afb0-b776eb70a208)
 
 
+<h3>
+Using EIC with the AWS CLI:</h3>
+
+<ol>
+ <li>
+  <p>Enable EIC on the Instance: (if not already enabled)</p>
+  ```bash
+aws ec2 enable-instance-profile-on-instance \
+    --instance-id instance-id \
+    --instance-profile-name EC2InstanceConnect
+```
+
+ </li>
+
+ <li>
+  <p> Connect to Instance:</p>
+ 
+```bash
+aws ec2-instance-connect send-ssh-public-key \
+    --instance-id instance-id \
+    --availability-zone availability-zone \
+    --instance-os-user ubuntu
+  ```
+ </li>
+ <li>
+  Additional Benefits:
+
+Streamlined Access: Simplifies access for developers and administrators.
+Improved Security: Reduces security risks associated with managing SSH keys.
+Auditability: Provides clear records of SSH access for compliance and troubleshooting.
+Remember:
+</li>
+<li>
+
+EIC is currently available for Linux instances only.
+It supports SSH connections for both interactive sessions and command execution.
+You can also use EIC to connect to instances using a web-based terminal in the EC2 console.
+ </li>
+
+ 
+</ol>
+
+<h3>
+ SOURCE: <a href="https://medium.com/avmconsulting-blog/connect-to-aws-rds-instance-using-ssm-and-ssh-tunneling-8900424a5bf7">A medium blog</a>
+</h3>
 
 
 
