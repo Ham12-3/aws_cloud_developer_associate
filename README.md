@@ -282,7 +282,7 @@ You can also use EIC to connect to instances using a web-based terminal in the E
 </h3>
 
 
-
+<br/>
 
 
 <h2>Amazon EBS: Your Cloud Storage Powerhouse</h2>
@@ -313,18 +313,28 @@ No more worrying about running out of storage space! EBS expands effortlessly as
 </p>
 
 
+<p>
+ Fort Knox for Your Data:
 
-**Fort Knox for Your Data:**
+![image](https://github.com/Ham12-3/aws_cloud_developer_associate/assets/93613316/35ebee99-67c5-4511-b132-e69d0fe6bdcb)
 
-[Image of a secure vault like Fort Knox]
 
 EBS safeguards your data like a digital Fort Knox, with automatic backups and built-in redundancy that protect against unexpected bumps in the road. Rest assured, your information is always safe and sound.
+</p>
 
-**Budget-Friendly Flexibility:**
+<p>
+Budget-Friendly Flexibility:
 
-[Image of a piggy bank with a happy face]
+![image](https://github.com/Ham12-3/aws_cloud_developer_associate/assets/93613316/aa66e9bc-c1ae-44f3-934d-4a44730fa185)
+
 
 EBS offers a variety of storage plans to fit any budget, from budget-conscious beginners to high-performance power users. Choose the perfect option for your needs and watch your digital dollars stretch further.
+ 
+</p>
+
+
+
+
 
 **Perfect for:**
 
