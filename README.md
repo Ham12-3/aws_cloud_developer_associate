@@ -289,18 +289,27 @@ You can also use EIC to connect to instances using a web-based terminal in the E
 </p>
 
 
+<p>
+ Supercharged Speed:
 
-**Supercharged Speed:**
+![image](https://github.com/Ham12-3/aws_cloud_developer_associate/assets/93613316/bad5e7d2-233b-46c9-a3f2-ba49ae2e70d6)
 
-[Image of a Formula One pit stop with a car getting new tires quickly]
 
 With EBS, data reads and writes happen in a blink, keeping your projects running smoothly like a well-oiled machine. Say goodbye to frustrating lag and hello to instant access!
+</p>
 
-**Stretch Your Storage Legs:**
+<p>
 
-[Image of an elastic band stretching infinitely]
+Stretch Your Storage Legs:
+
+![image](https://github.com/Ham12-3/aws_cloud_developer_associate/assets/93613316/3220ad73-d2b9-4aa4-a852-20b2c3cfc650)
+
 
 No more worrying about running out of storage space! EBS expands effortlessly as your needs grow, ensuring you always have enough room for your ideas and data. Think of it as a bottomless storage bin for your digital treasures.
+ 
+</p>
+
+
 
 **Fort Knox for Your Data:**
 
