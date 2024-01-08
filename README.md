@@ -282,7 +282,10 @@ You can also use EIC to connect to instances using a web-based terminal in the E
 </h3>
 
 
-<h3>Amazon EBS: Your Cloud Storage Powerhouse</h3>
+
+
+
+<h2>Amazon EBS: Your Cloud Storage Powerhouse</h2>
 
 <p>
  Imagine your cloud storage as a trusty toolbox. You need different tools for different jobs, and sometimes you need to expand your kit. Amazon EBS is like that magic toolbox that grows with you and adapts to your needs, with lightning-fast performance, limitless scalability, and unwavering reliability.
