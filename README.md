@@ -348,7 +348,7 @@ EBS offers a variety of storage plans to fit any budget, from budget-conscious b
 
 * **Official AWS EBS Documentation:** https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AmazonEBS.html
 * **Get Started with EBS:** [[link to AWS EBS getting started guide]](https://aws.amazon.com/ebs/)
-* **EBS Pricing:** [link to AWS EBS pricing page]
+* **EBS Pricing:** [[link to AWS EBS pricing page]](https://aws.amazon.com/ebs/pricing/)
 
 Remember, EBS is like your partner in cloud crime, always there to support your projects and help you achieve your goals. So go forth, build, create, and innovate, knowing your data is in good hands!
 
