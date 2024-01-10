@@ -414,6 +414,8 @@ If you're interested in learning more, here are some helpful resources:
 * **AWS EFS documentation:** [https://docs.aws.amazon.com/efs/latest/ug/whatisefs.html](https://docs.aws.amazon.com/efs/latest/ug/whatisefs.html)
 * **Blog post: 5 Reasons to Use AWS EFS for Your Cloud Applications:** [https://aws.amazon.com/efs/customers/](https://aws.amazon.com/efs/customers/)
 
+![racks-of-servers](https://github.com/Ham12-3/aws_cloud_developer_associate/assets/93613316/f02ba35a-c97b-4052-bcba-6c94791c0a83)
+
 
 
 
