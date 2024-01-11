@@ -419,6 +419,8 @@ If you're interested in learning more, here are some helpful resources:
 
 # The Amazon Application Load Balancer (ALB) is a managed service offered by Amazon Web Services (AWS) that helps you distribute incoming traffic across multiple targets, such as Amazon EC2 instances, containers, or IP addresses. Think of it as a sophisticated traffic cop for your cloud applications, ensuring smooth flow and preventing bottlenecks.
 
+
+
 Here's how the ALB works:
 
 * **Distributes traffic:** When a user visits your website or uses your application, their request hits the ALB. The ALB then intelligently routes the request to one of your available targets, ensuring everyone gets served quickly and efficiently.
@@ -446,6 +448,7 @@ Here's how the ALB works:
 I hope this explanation clarifies what the Amazon ALB is and how it can benefit you. If you have any further questions, feel free to ask!
 
 
+![3ga8w5y7gv9q4xukct62](https://github.com/Ham12-3/aws_cloud_developer_associate/assets/93613316/589bd94a-57c0-4ffa-98eb-fcb9d6d88c52)
 
 
 
