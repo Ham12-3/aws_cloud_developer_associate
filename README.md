@@ -482,6 +482,7 @@ Here's how it works:
 I hope this explanation helps! Feel free to ask if you have any further questions.
 
 
+![as-basic-diagram](https://github.com/Ham12-3/aws_cloud_developer_associate/assets/93613316/d1237ba2-7aea-428d-adff-e6256260b0d7)
 
 
 
