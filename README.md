@@ -479,7 +479,8 @@ Here's how it works:
 
 **In short, Amazon Auto Scaling Groups take the guesswork out of server scaling, giving you a reliable and cost-effective way to handle fluctuating demand for your cloud resources.**
 
-I hope this explanation helps! Feel free to ask if you have any further questions.
+![as-basic-diagram](https://github.com/Ham12-3/aws_cloud_developer_associate/assets/93613316/d1237ba2-7aea-428d-adff-e6256260b0d7)
+
 
 
 
@@ -529,14 +530,15 @@ rds.createDBInstance(params, (err, data) => {
 
 **Image:**
 
-[Image of Amazon RDS architecture diagram]
+![Amazon_RDS](https://github.com/Anglaar-Digital-Agency/aws_cloud_developer_associate/assets/93613316/d353579e-356c-4c96-b042-75d9d00db430)
 
 
 
 
 
 
-![as-basic-diagram](https://github.com/Ham12-3/aws_cloud_developer_associate/assets/93613316/d1237ba2-7aea-428d-adff-e6256260b0d7)
+
+
 
 
 
