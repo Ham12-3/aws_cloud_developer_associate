@@ -531,7 +531,7 @@ rds.createDBInstance(params, (err, data) => {
 
 [Image of Amazon RDS architecture diagram]
 
-I hope this information is helpful! If you have any further questions, feel free to ask.
+
 
 
 
