@@ -483,9 +483,9 @@ I hope this explanation helps! Feel free to ask if you have any further question
 
 
 
- **Here's what I know about Amazon RDS, combining key information and helpful code examples:**
 
-**Amazon Relational Database Service (RDS)** is a managed database service that makes it easy to set up, operate, and scale relational databases in the cloud. It handles many of the common database administration tasks, freeing you to focus on your applications.
+
+# **Amazon Relational Database Service (RDS)** is a managed database service that makes it easy to set up, operate, and scale relational databases in the cloud. It handles many of the common database administration tasks, freeing you to focus on your applications.
 
 **Key Features:**
 
