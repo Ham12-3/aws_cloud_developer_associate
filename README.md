@@ -536,9 +536,6 @@ rds.createDBInstance(params, (err, data) => {
 
 
 
-Absolutely! Here's a breakdown of what AWS Aurora is about:
-
-**In a nutshell:**
 
 * **Amazon Aurora is a relational database service offered by Amazon Web Services (AWS).** It combines the familiar features of MySQL and PostgreSQL with the high performance, scalability, and reliability of a cloud-native engine.
 * **Think of it as a supercharged version of MySQL and PostgreSQL, built specifically for the cloud.** This means it automatically scales, backs up, and recovers from failures, taking away the burden of managing your database infrastructure.
@@ -569,7 +566,6 @@ Absolutely! Here's a breakdown of what AWS Aurora is about:
 * **AWS Aurora documentation:** [https://aws.amazon.com/blogs/aws/amazon-aurora-postgresql-serverless-now-generally-available/](https://aws.amazon.com/blogs/aws/amazon-aurora-postgresql-serverless-now-generally-available/)
 * **AWS Aurora blog:** [https://aws.amazon.com/blogs/aws/category/database/amazon-aurora/](https://aws.amazon.com/blogs/aws/category/database/amazon-aurora/)
 
-I hope this helps! Let me know if you have any other questions about AWS Aurora.
 
 
 
