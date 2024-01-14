@@ -569,6 +569,11 @@ rds.createDBInstance(params, (err, data) => {
 
 
 
+![Fig1-rep-3-AZs-1024x591](https://github.com/Anglaar-Digital-Agency/aws_cloud_developer_associate/assets/93613316/9bbc6b32-b575-4919-89cd-6a4e046a4970)
+
+
+https://github.com/Anglaar-Digital-Agency/aws_cloud_developer_associate/assets/93613316/5a6e13ea-1b73-4476-bcf3-06dfec37f8ba
+
 
 
 
