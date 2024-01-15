@@ -578,6 +578,8 @@ https://github.com/Anglaar-Digital-Agency/aws_cloud_developer_associate/assets/9
 
 
 
+# AWS ELASTICACHE
+
 
 - **Managed in-memory data store service** in the AWS cloud.
 - **Caches frequently used data** to reduce database load and improve application performance.
@@ -632,6 +634,9 @@ value = client.get('key')
 - **Pricing:** Pay per node, per hour.
 - **Security:** Supports encryption at rest and in transit.
 - **Monitoring:** Provides metrics for performance and health.
+![image-redis-journey-aws](https://github.com/Anglaar-Digital-Agency/aws_cloud_developer_associate/assets/93613316/5ef093ee-f94d-4fc9-89ed-f9597e6a62aa)
+![Screen-Shot-2021-04-20-at-10 53 40-1260x616](https://github.com/Anglaar-Digital-Agency/aws_cloud_developer_associate/assets/93613316/d38aaa9a-73f1-4f28-8c8b-fd1aec6c059b)
+
 
 
 
