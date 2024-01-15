@@ -575,9 +575,9 @@ rds.createDBInstance(params, (err, data) => {
 https://github.com/Anglaar-Digital-Agency/aws_cloud_developer_associate/assets/93613316/5a6e13ea-1b73-4476-bcf3-06dfec37f8ba
 
 
- **Here's what I know about Amazon ElastiCache, including code examples where applicable:**
 
-**Overview:**
+
+
 
 - **Managed in-memory data store service** in the AWS cloud.
 - **Caches frequently used data** to reduce database load and improve application performance.
