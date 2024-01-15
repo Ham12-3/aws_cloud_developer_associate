@@ -576,6 +576,8 @@ https://github.com/Anglaar-Digital-Agency/aws_cloud_developer_associate/assets/9
 
 
 
+
+
 # AWS ELASTICACHE
 
 
