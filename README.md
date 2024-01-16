@@ -673,6 +673,7 @@ I can share some interesting resources about DNS, like:
 
 
 
+![what-is-dns](https://github.com/Anglaar-Digital-Agency/aws_cloud_developer_associate/assets/93613316/190d8df0-7f12-4630-b570-68eace864d2e)
 
 
 
