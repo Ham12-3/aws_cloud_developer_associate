@@ -13,6 +13,7 @@ But you cannot add groups in groups.
 The root user sohuld be only used for creating an IAM user but not be used for any other thing or shared.
 the users are people in an organization and they are part of a group
 Groups only contain users but not other groups
+Users may not be in any group and they can also be in multiple groups
 
 
 <img src="https://www.msp360.com/resources/wp-content/uploads/2018/10/image4-1-1024x504.png"/>
