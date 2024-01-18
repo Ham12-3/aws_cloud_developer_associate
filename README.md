@@ -11,6 +11,7 @@ create users within such groups. Each user can be in multiple groups and each on
 Making use of an AWS IAM account is better than using your root user account as this is more secure to use.
 But you cannot add groups in groups.
 The root user sohuld be only used for creating an IAM user but not be used for any other thing or shared.
+the users are people in an organization and they are part of a group
 
 <img src="https://www.msp360.com/resources/wp-content/uploads/2018/10/image4-1-1024x504.png"/>
 
