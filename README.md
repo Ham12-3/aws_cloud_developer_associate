@@ -745,6 +745,11 @@ AWS Route 53 blog: https://aws.amazon.com/blogs/aws/category/networking-content-
   ![Figure-1 -Solution-architecture-1024x547](https://github.com/Anglaar-Digital-Agency/aws_cloud_developer_associate/assets/93613316/1dee4795-e8c1-4a0c-8b70-b513934faae5)
 
 
+While studying, you can enjoy programming memes:
+
+
+https://github.com/Anglaar-Digital-Agency/aws_cloud_developer_associate/assets/93613316/8e1f3d89-87f0-4db3-a3a6-b9adc8dad682
+
 
 
 
