@@ -711,6 +711,52 @@ AWS Route 53 blog: https://aws.amazon.com/blogs/aws/category/networking-content-
 ![how-route-53-routes-traffic](https://github.com/Anglaar-Digital-Agency/aws_cloud_developer_associate/assets/93613316/9d9a22b4-ffc4-44b1-82ee-a467045590be)
 
 
+# Connectng AWS EC2 instance with Route53
+**Understanding the Purpose:**
+
+* **Domain Name System (DNS):** Translates human-readable domain names (e.g., [www.example.com](https://www.example.com)) into machine-readable IP addresses (e.g., 192.168.1.1), enabling users to access websites and web applications.
+* **Route 53:** AWS's highly available and scalable cloud DNS service.
+* **EC2 Instance:** A virtual server in AWS's Elastic Compute Cloud (EC2) service, hosting websites, applications, and other resources.
+
+**Benefits of Connecting EC2 Instance with Route 53:**
+
+* **Simplified Domain Routing:** Point your domain name to your EC2 instance's IP address within Route 53, eliminating reliance on external DNS providers.
+* **High Availability:** Route 53's distributed DNS servers ensure domain accessibility even during outages.
+* **Scalability:** Handles increased traffic with ease.
+* **Enhanced Security:** DNSSEC for domain protection.
+* **AWS Integration:** Seamless integration with other AWS services.
+
+**Prerequisites:**
+
+* An AWS account with an active EC2 instance.
+* A registered domain name that you control.
+
+**General Steps:**
+
+1. **Access Route 53:** Locate Route 53 within your AWS Management Console.
+2. **Create Hosted Zone:** Establish a hosted zone for your domain name.
+3. **Obtain EC2 Instance IP Address:** Find the public IP address of your EC2 instance.
+4. **Create A Record:** Within the hosted zone, create an A record mapping your domain name to the EC2 instance's IP address.
+5. **Propagation Delay:** Allow time for DNS changes to propagate globally (typically up to 48 hours).
+
+**Additional Considerations:**
+
+* **Elastic IP Addresses:** Consider using Elastic IPs for static IP addresses that persist even if the instance is stopped or terminated.
+* **Health Checks and Failover:** Route 53 offers health checks and failover routing for high availability.
+* **Traffic Flow Management:** Route 53 can route traffic to multiple resources for load balancing or geolocation-based routing.
+
+  Here is a youtube video to guide you on that: https://youtu.be/cfzHfazXalo?si=W40ltcMAIoU1HFvn
+  ![Figure-1 -Solution-architecture-1024x547](https://github.com/Anglaar-Digital-Agency/aws_cloud_developer_associate/assets/93613316/1dee4795-e8c1-4a0c-8b70-b513934faae5)
+
+
+While studying, you can enjoy programming memes:
+
+
+https://github.com/Anglaar-Digital-Agency/aws_cloud_developer_associate/assets/93613316/8e1f3d89-87f0-4db3-a3a6-b9adc8dad682
+
+
+
+
 
 
 
