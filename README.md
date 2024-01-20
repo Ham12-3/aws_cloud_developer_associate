@@ -707,8 +707,7 @@ AWS Route 53 blog: https://aws.amazon.com/blogs/aws/category/networking-content-
 ![how-route-53-routes-traffic](https://github.com/Anglaar-Digital-Agency/aws_cloud_developer_associate/assets/93613316/9d9a22b4-ffc4-44b1-82ee-a467045590be)
 
 
- **I'm unable to access real-time information or perform actions on the internet. However, I can provide you with comprehensive information about connecting your EC2 instance with Route 53 based on my current knowledge:**
-
+# Connectng AWS EC2 instance with Route53
 **Understanding the Purpose:**
 
 * **Domain Name System (DNS):** Translates human-readable domain names (e.g., [www.example.com](https://www.example.com)) into machine-readable IP addresses (e.g., 192.168.1.1), enabling users to access websites and web applications.
