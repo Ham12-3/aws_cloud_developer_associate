@@ -741,6 +741,10 @@ AWS Route 53 blog: https://aws.amazon.com/blogs/aws/category/networking-content-
 * **Health Checks and Failover:** Route 53 offers health checks and failover routing for high availability.
 * **Traffic Flow Management:** Route 53 can route traffic to multiple resources for load balancing or geolocation-based routing.
 
+  Here is a youtube video to guide you on that: https://youtu.be/cfzHfazXalo?si=W40ltcMAIoU1HFvn
+  ![Figure-1 -Solution-architecture-1024x547](https://github.com/Anglaar-Digital-Agency/aws_cloud_developer_associate/assets/93613316/1dee4795-e8c1-4a0c-8b70-b513934faae5)
+
+
 
 
 
