@@ -530,7 +530,7 @@ Here's how it works:
 
 
 
-
+To learn more about the AWS load balancers, we can check it out on the documentation here: https://docs.aws.amazon.com/elasticloadbalancing/ 
 
 
 
