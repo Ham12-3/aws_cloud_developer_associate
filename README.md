@@ -860,7 +860,30 @@ At the heart of DNS lies its hierarchical naming structure, resembling an intric
 
 **DNS in Action: Resolving Hostnames to IP Addresses**
 
-
+User Request:
+A user opens a web browser and enters a domain name, such as www.google.com, into the address bar.
+DNS Query Initiation:
+The browser initiates a DNS query to resolve the domain name into its corresponding IP address.
+DNS Resolver Engagement:
+The DNS query is forwarded to the DNS resolver, typically managed by the user's Internet Service Provider (ISP) or another intermediary.
+Root Name Server Inquiry:
+The DNS resolver forwards the query to a DNS root name server, which holds information about the root level of the DNS hierarchy.
+Top-Level Domain (TLD) Name Server Request:
+The root name server directs the resolver to the appropriate Top-Level Domain (TLD) name server responsible for the domain's TLD (e.g., .com, .org, .net).
+Route 53 Name Server Selection:
+The TLD name server provides the resolver with the authoritative name servers for the queried domain, such as those managed by Amazon Route 53.
+Authoritative DNS Query:
+The resolver sends the DNS query to one of the authoritative DNS servers associated with the domain, chosen from the provided list.
+Record Retrieval:
+The authoritative DNS server looks up the requested record (e.g., A record for www.google.com) in its zone file and retrieves the corresponding IP address.
+Response Transmission:
+The IP address is returned to the DNS resolver, completing the resolution process.
+Caching and Response Delivery:
+The DNS resolver caches the resolved IP address for future use and returns it to the user's web browser.
+Web Server Communication:
+The web browser sends an HTTP request to the obtained IP address, initiating communication with the corresponding web server.
+Content Delivery:
+The web server processes the request and delivers the requested content (e.g., a webpage) back to the user's web browser for display.
 
 **Authoritative DNS vs. Recursive DNS**
 
