@@ -949,24 +949,7 @@ AWS Route 53 blog: https://aws.amazon.com/blogs/aws/category/networking-content-
 **Prerequisites:**
 
 * An AWS account with an active EC2 instance.
-* A registered domain name that you control.
-
-**General Steps:**
-
-1. **Access Route 53:** Locate Route 53 within your AWS Management Console.
-2. **Create Hosted Zone:** Establish a hosted zone for your domain name.
-3. **Obtain EC2 Instance IP Address:** Find the public IP address of your EC2 instance.
-4. **Create A Record:** Within the hosted zone, create an A record mapping your domain name to the EC2 instance's IP address.
-5. **Propagation Delay:** Allow time for DNS changes to propagate globally (typically up to 48 hours).
-
-**Additional Considerations:**
-
-* **Elastic IP Addresses:** Consider using Elastic IPs for static IP addresses that persist even if the instance is stopped or terminated.
-* **Health Checks and Failover:** Route 53 offers health checks and failover routing for high availability.
-* **Traffic Flow Management:** Route 53 can route traffic to multiple resources for load balancing or geolocation-based routing.
-
-  Here is a youtube video to guide you on that: https://youtu.be/cfzHfazXalo?si=W40ltcMAIoU1HFvn
-  ![Figure-1 -Solution-architecture-1024x547](https://github.com/Anglaar-Digital-Agency/aws_cloud_developer_associate/assets/93613316/1dee4795-e8c1-4a0c-8b70-b513934faae5)
+* A registered domain name that you c
 
 
 
