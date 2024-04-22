@@ -931,25 +931,6 @@ AWS Route 53 blog: https://aws.amazon.com/blogs/aws/category/networking-content-
 ![how-route-53-routes-traffic](https://github.com/Anglaar-Digital-Agency/aws_cloud_developer_associate/assets/93613316/9d9a22b4-ffc4-44b1-82ee-a467045590be)
 
 
-# Connectng AWS EC2 instance with Route53
-**Understanding the Purpose:**
-
-* **Domain Name System (DNS):** Translates human-readable domain names (e.g., [www.example.com](https://www.example.com)) into machine-readable IP addresses (e.g., 192.168.1.1), enabling users to access websites and web applications.
-* **Route 53:** AWS's highly available and scalable cloud DNS service.
-* **EC2 Instance:** A virtual server in AWS's Elastic Compute Cloud (EC2) service, hosting websites, applications, and other resources.
-
-**Benefits of Connecting EC2 Instance with Route 53:**
-
-* **Simplified Domain Routing:** Point your domain name to your EC2 instance's IP address within Route 53, eliminating reliance on external DNS providers.
-* **High Availability:** Route 53's distributed DNS servers ensure domain accessibility even during outages.
-* **Scalability:** Handles increased traffic with ease.
-* **Enhanced Security:** DNSSEC for domain protection.
-* **AWS Integration:** Seamless integration with other AWS services.
-
-**Prerequisites:**
-
-* An AWS account with an active EC2 instance.
-* A registered domain name that you c
 
 
 
